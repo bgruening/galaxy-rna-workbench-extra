@@ -1,3 +1,9 @@
+
+# Deprecated 
+
+This repository is deprecated in favor of https://github.com/bgruening/galaxy-rna-workbench
+
+
 RNA Galaxy Workbench
 ====================
 
